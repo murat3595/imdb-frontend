@@ -1,0 +1,8 @@
+#viewRangerContainer{
+    border: solid;
+    position: absoulte;
+    display: flex;
+    overflow: auto;
+    flex-wrap: wrap;
+    width: 75%;
+  }
